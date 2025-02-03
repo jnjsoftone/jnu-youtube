@@ -48,5 +48,9 @@
     "jnu-web": "^0.0.2",
     "youtube-captions-scraper": "^2.0.3"
   },
+  "optionalDependencies": {
+    "@swc/core-darwin-arm64": "^1.3.99",
+    "@swc/core-win32-x64-msvc": "^1.3.99"
+  },
   "type": "module"
 }

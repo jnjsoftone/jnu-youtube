@@ -1,6 +1,6 @@
 {
   "name": "jnu-youtube",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Jnjsoft Nodejs Utility Library for Youtube(youtubeAPI, youtubeDownload, ...) Support Functions in Typescript",
   "author": "JnJ One <jnjsoft.one@gmail.com>",
   "main": "./cjs/index.js",
